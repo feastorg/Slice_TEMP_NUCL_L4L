@@ -1,6 +1,6 @@
 # Slice Template
 
-Template for creating BREAD slices. Features STM32 Nucleo32, large dimensions (100x145mm), 4 layers, and this is the first revision (TEMP_NUCL_L4L-r1).
+Template for creating BREAD slices. Features STM32 Nucleo32, large dimensions (100x145mm), 4 layers.
 
 ## Introduction
 
