@@ -10,10 +10,10 @@ hardware:
   interface: SI1
   pcb:
     layers: 4
-    dimensions: 100mm x 145mm
+    dimensions: 100.116mm x 144.894mm
     thickness: 1.6mm
   mounting:
-    pattern: slice-L-v0
+    pattern: null
   mcu:
     form_factor: nucleo32
 interfaces:
